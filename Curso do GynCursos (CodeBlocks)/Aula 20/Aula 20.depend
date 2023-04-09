@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673712288 source:c:\users\crist\onedrive\documentos\linguagem c\aula 20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
